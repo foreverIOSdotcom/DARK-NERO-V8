@@ -18,27 +18,27 @@ global.ANTI_BADWORD = 'true' // true of false
 global.AUTO_REACT = 'false' // true of false
 global.INBOX_BLOCK_MSG ='BLOCK !!!'
 global.INBOX_BLOCK = 'off' //inbox block
-global.alivemsg = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ʙᴏᴛ'
+global.alivemsg = 'LateNight Bot'
 global.alivepic = 'https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg '
-global.owner = ['0786802371'] //ur owner number
-global.ownername = "kaveesha" //ur owner name
-global.ytname = "YT: Dark" //ur yt chanel name
-global.socialm = "GitHub: Dark" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['96181891266'] //ur owner number
+global.ownername = "Alan" //ur owner name
+global.ytname = "YT: Tokyo" //ur yt chanel name
+global.socialm = "GitHub: ForeverIOSdotcom" //ur github or insta name
+global.location = "Beirut ,Laylake" //ur location
 
 //bot bomdy 
 global.session = " " //session Id
-global.ownernomer = "94786802371" //ur number
-global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
-global.premium = ['94786802371'] //ur premium number
-global.botname = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
-global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
+global.ownernomer = "96181891266" //ur number
+global.lang = "EN" //Select Language "EN" to English "SI" to sinhala 
+global.premium = ['96181891266'] //ur premium number
+global.botname = 'LateNight' //ur bot name
+global.linkz = "https://chat.whatsapp.com/JF7WHTRDa5kB5UiW8ezGxO" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/@worldsmess6524" //ur website to be displayed
 global.botscript = 'https://www.darknero.ga/' //script link
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Dark Nero By" //ur sticker watermark packname
-global.author = "Dark Nero Creating By Cyber Yakuza Team" //ur sticker watermark author
-global.wm = "Dark Bot Inc." //ur watermark
+global.packname = "" //ur sticker watermark packname
+global.author = "" //ur sticker watermark author
+global.wm = "LateNight Inc." //ur watermark
 
 // Other
 global.sessionName = 'session'
